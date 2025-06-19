@@ -1,0 +1,114 @@
+@import "tailwindcss";
+body{
+    background-color:black;
+    overflow-x: hidden;
+    
+  }
+
+body::-webkit-scrollbar{
+  display: none;
+}  
+  button{
+    cursor: pointer;
+  }
+  .kanit-thin {
+    font-family: "Kanit";
+    font-weight: 100;
+    font-style: normal;
+  }
+  .kanit-bold {
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: normal;
+  }
+  .orbitron{
+    font-family: "Orbitron";
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
+  .exo-2 {
+    font-family: "Exo 2";
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .liter-regular {
+    font-family: "Liter", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .curve {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  .courgette-regular {
+    font-family: "Courgette", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  .outfit {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
+  .courgette-regular-2 {
+    font-family: "Courgette", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .dancing-script {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .liter-regular {
+    font-family: "Liter", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .kanit-regular {
+    font-family: "Kanit", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .curved-top {
+    width: 20rem;
+    height: 18rem;
+    clip-path: ellipse(75% 100% at center bottom);
+  }
+  .bebas-neue {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  #scroller::-webkit-scrollbar{
+    display: none;
+  }
+  .courgette-regular-2 {
+    font-family: "Courgette", cursive;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .trade-winds-regular {
+    font-family: "Trade Winds", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .dr-sugiyama-regular {
+    font-family: "Dr Sugiyama", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }

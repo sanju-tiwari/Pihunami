@@ -1,0 +1,28 @@
+# Build & dependency folders
+node_modules/
+dist/
+
+# Heavy image/video folders in public
+public/img\ video/
+public/img2/
+public/imges/
+
+# Assets inside src (images, audio, video)
+src/assets/**/*.png
+src/assets/**/*.jpg
+src/assets/**/*.jpeg
+src/assets/**/*.mp4
+src/assets/**/*.mov
+src/assets/**/*.gif
+src/assets/**/*.webp
+src/assets/**/*.wav
+src/assets/**/*.mp3
+
+# Other unnecessary stuff
+.DS_Store
+.env
+.vscode/
+.parcel-cache/
+coverage/
+*.zip
+*.psd

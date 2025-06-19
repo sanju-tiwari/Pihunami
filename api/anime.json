@@ -1,0 +1,357 @@
+[
+{
+        "id": 1,
+        "video":"https://pixeldrain.com/api/file/Sj9DAgHH",
+        "img":"/img2/goku.jpg",
+        "title":"Dragon Ball Z",
+        "h2":"Trending",
+        "para":"Dragon Ball Z is a legendary anime that follows Goku and his friends as they defend Earth from powerful foes. The series is known for its intense battles, energy blasts, and transformations like Super Saiyan.",
+        "Anime":"Anime",
+        "hours":"30 min per episode",
+        "Month":2020,
+        "ua":"U/A 13+",
+        "type":"Adventure",
+        "premium": false
+},
+{
+    "id":2,
+    "video":"https://pixeldrain.com/api/file/Re7ifmFp",
+    "img": "/img2/luffy.jpg" ,
+    "title":"Monkey D. Luffy",
+    "h2":" Most Trending",
+    "para":"Monkey D. Luffy is the fearless captain of the Straw Hat Pirates, aiming to become the King of the Pirates. He gained rubber powers after eating the Gum-Gum Fruit. The series is known for its action-packed adventures, pirates, and epic battles.",
+    "Anime":"Anime",
+    "hours":"21 min per episode",
+    "month":"2024",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action " ,
+    "premium": true
+},
+{
+    "id":3,
+    "video":"https://pixeldrain.com/api/file/4VxS8cie",
+    "img":"/img2/note.jpg" ,
+    "title":"Death Note",
+    "h2":"Trending",
+    "para":"Death Note is a psychological thriller anime about a genius student, Light Yagami, who finds a notebook that can kill anyone whose name is written in it. He uses it to try to create a crime-free world.",
+    "Anime":"Anime",
+    "hours":"28 min per episode",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Action",
+    "premium": true
+},{
+    "id":4,
+    "video":"https://pixeldrain.com/api/file/w2K49FeU",
+    "img":"/img2/hiykyuu.jpg" ,
+    "title":"Haikyuu!!",
+    "h2":"Trending",
+    "para":"Haikyuu!! is a sports anime that follows Shoyo Hinata, a short but passionate volleyball player with big dreams. He joins Karasuno High and aims to become one of the best.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2021",
+    "ua":"U/A 13+",
+    "type":"Sports , Adventure ",
+    "premium": true
+
+},{
+    "id":5,
+    "video":"https://pixeldrain.com/api/file/BXRMAjU8",
+    "img":"/img2/hunter.jpg" ,
+    "title":"Hunter x Hunter ",
+    "h2":"Trending",
+    "para":"Hunter x Hunter follows Gon Freecss, a boy who becomes a Hunter to find his long-lost father. Along the way, he forms strong bonds with friends like Killua, Kurapika, and Leorio.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action ",
+    "premium": false
+
+},{
+    "id":6,
+    "video":"https://pixeldrain.com/api/file/QbiYA7Yb",
+    "img":"/img2/jjk.jpg" ,
+    "title":"Jujutsu Kaisen",
+    "h2":"Trending",
+    "para":"Jujutsu Kaisen follows Yuji Itadori, a high schooler who becomes a Jujutsu Sorcerer after swallowing a powerful cursed object — Sukuna’s finger. He joins Tokyo Jujutsu High to fight curses and protect humanity.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Action",
+    "premium": true
+
+},{
+    "id":7,
+    "video":"https://pixeldrain.com/api/file/bsVWnkws",
+    "img":"/img2/promise.jpg" ,
+    "title":"The Promised Neverland",
+    "h2":"Trending",
+    "para":"The Promised Neverland tells the story of Emma, Norman, and Ray—kids living in an orphanage who uncover a dark secret about their fate. They plan a daring escape to save themselves and the other children.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Mystery",
+    "premium": false
+
+},{
+    "id":8,
+    "video":"https://pixeldrain.com/api/file/Sj9DAgHH",
+    "img":"/img2/goku.jpg" ,
+    "title":"Dragon Ball Z",
+    "h2":"Trending",
+    "para":"Dragon Ball Z is a legendary anime that follows Goku and his friends as they defend Earth from powerful foes. The series is known for its intense battles, energy blasts, and transformations like Super Saiyan.",
+    "Anime":"Anime",
+    "hours":"30 min per episode",
+    "Month":2020,
+    "ua":"U/A 13+",
+    "type":"Adventure",
+    "premium": false
+
+
+},{
+    "id":9,
+    "video":"https://pixeldrain.com/api/file/WBQ5Pp3j",
+    "img":"/img2/wind.jpg" ,
+    "title":"Vinland Saga",
+    "h2":"Trending",
+    "para":"Vinland Saga follows Thorfinn, a young warrior seeking revenge against the man who killed his father. Set in the Viking era, it blends history with intense action and deep emotion.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2021",
+    "ua":"U/A 13+",
+    "type":"Honor , Adventure ",
+    "premium": false
+
+},{
+    "id":10,
+    "video":"https://pixeldrain.com/api/file/V4TskYfg",
+    "img":"/img2/tokyo.jpg" ,
+    "title":"Tokyo Revengers",
+    "h2":"Trending",
+    "para":"Tokyo Revengers follows Takemichi, a young man who travels back in time to save his ex-girlfriend and change the future. He gets involved with the Tokyo Manji Gang to rewrite fate.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Friendship, loyalty",
+    "premium": false
+
+},{
+    "id":11,
+    "video":"https://pixeldrain.com/api/file/e1296KPp",
+    "img":"/img2/demon.jpg" ,
+    "title":"Demon Slayer",
+    "h2":"Trending",
+    "para":"Demon Slayer follows Tanjiro Kamado, a kind-hearted boy who becomes a demon slayer after his family is slaughtered and his sister Nezuko is turned into a demon. He vows to find a cure and defeat the demons plaguing the world.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2022",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action ",
+    "premium": true
+
+},{
+    "id":12,
+    "video":"https://pixeldrain.com/api/file/eiCkwTHE",
+    "img":"/img2/dandan.jpg" ,
+    "title":"Dandadan",
+    "h2":"Trending",
+    "para":"Dandadan is a wild and fast-paced manga that blends the supernatural with sci-fi, following Momo and Okarun as they battle aliens and ghosts. It starts when their beliefs clash—she believes in ghosts, he believes in aliens.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2024",
+    "ua":"U/A 13+",
+    "type":"Adventure , Horror ",
+    "premium": false
+
+},{
+    "id":13,
+    "video":"https://pixeldrain.com/api/file/w2K49FeU",
+    "img":"/img2/hiykyuu.jpg" ,
+    "title":"Haikyuu!!",
+    "h2":"Trending",
+    "para":"Haikyuu!! is a sports anime that follows Shoyo Hinata, a short but passionate volleyball player with big dreams. He joins Karasuno High and aims to become one of the best.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2021",
+    "ua":"U/A 13+",
+    "type":"Sports , Adventure ",
+    "premium": true
+
+},{
+    "id":14,
+    "video":"https://pixeldrain.com/api/file/rUq6EaGK",
+    "img":"/img2/love.jpg" ,
+    "title":"Say I Love You",
+    "h2":"Trending",
+    "para":"Say I Love You is a romantic anime that follows Mei Tachibana, a quiet girl who has never had friends or a boyfriend. Her life changes when she meets Yamato Kurosawa, a popular and kind-hearted boy.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2022",
+    "ua":"U/A 13+",
+    "type":"Love",
+    "premium": false
+
+},{
+    "id":15,
+    "video":"https://pixeldrain.com/api/file/kZQuHPuB",
+    "img":"/img2/aot.jpg" ,
+    "title":"Attack on Titan",
+    "h2":"Trending",
+    "para":"Attack on Titan is a dark, action-packed anime where humanity fights for survival against giant humanoid creatures called Titans. Eren Yeager, along with Mikasa and Armin, vows to destroy them after tragedy strikes his home.",
+    "Anime":"Anime",
+    "hours":"27 min per episode ",
+    "month":"2022",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action ",
+    "premium": true
+
+},{
+    "id":16,
+    "video":"https://pixeldrain.com/api/file/pjP3svXZ",
+    "img":"/img2/hello.jpg" ,
+    "title":"Hello World",
+    "h2":"Trending",
+    "para":"Hello World is a sci-fi romance anime film set in a futuristic Kyoto, where a high school boy named Naomi meets his future self. Together, they try to save a girl named Ruri from a tragic fate.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2023",
+    "ua":"U/A 13+",
+    "type":"sci-fi romance ",
+    "premium": false
+
+},{
+    "id":17,
+    "video":"https://pixeldrain.com/api/file/vdaqGzv1",
+    "img":"/img2/dxd.jpg" ,
+    "title":"High School DxD",
+    "h2":"Trending",
+    "para":"High School DxD follows Issei Hyoudou, a high school student who is killed by a fallen angel and revived by Rias Gremory, a powerful demon. He becomes a devil and joins her household, diving into a world of supernatural battles.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2021",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action ",
+    "premium": true
+
+},{
+    "id":18,
+    "video":"https://pixeldrain.com/api/file/rBqmctA5",
+    "img":"/img2/dress.jpg" ,
+    "title":"My Dress-Up Darling",
+    "h2":"Trending",
+    "para":"My Dress-Up Darling follows Wakana Gojo, a shy boy who loves making traditional dolls, and Marin Kitagawa, a lively girl passionate about cosplay. Their worlds collide when Marin asks Gojo to help her create costumes.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2022",
+    "ua":"U/A 13+",
+    "type":"Love",
+    "premium": false
+
+},{
+    "id":19,
+    "video":"https://pixeldrain.com/api/file/RtuC71aL",
+    "img":"/img2/girlfriend.jpg" ,
+    "title":"Rent-A-Girlfriend",
+    "h2":"Trending",
+    "para":"Rent-A-Girlfriend follows Kazuya Kinoshita, a college student who rents a girlfriend, Chizuru Mizuhara, after a painful breakup. Things get complicated when their fake relationship starts to mix with real emotions.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2022",
+    "ua":"U/A 13+",
+    "type":"loneliness, love",
+    "premium": false
+
+},
+{
+    "id":20,
+    "video":"https://pixeldrain.com/api/file/meiaoPQU",
+    "img":"/img2/sakamoto.jpg" ,
+    "title":"Sakamoto ",
+    "h2":"Trending",
+    "para":"Sakamoto is a cool, stylish high school student who handles every situation with perfection and grace. No matter the challenge, he always finds a smooth and clever way out.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2024",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action ",
+    "premium": true
+
+},
+{
+    "id":21,
+    "video":"https://pixeldrain.com/api/file/7zinz94q",
+    "img":"/img2/solo.jpg" ,
+    "title":"Solo Leveling",
+    "h2":"Trending",
+    "para":"Solo Leveling follows Sung Jin-Woo, the weakest hunter in a world where humans fight monsters in deadly dungeons. After a mysterious event, he gains the power to level up on his own.",
+    "Anime":"Anime",
+    "hours":"24 min per episode ",
+    "month":"2024",
+    "ua":"U/A 13+",
+    "type":"Adventure , Action ",
+    "premium": true
+
+},
+{
+    "id":22,
+    "video":"https://pixeldrain.com/api/file/bfxZdumw",
+    "img":"/img2/spy.jpg" ,
+    "title":"Spy x Family",
+    "h2":"Trending",
+    "para":"Spy x Family follows Loid Forger, a spy who must create a fake family to complete a secret mission. He unknowingly adopts a telepathic girl, Anya, and marries an assassin, Yor.",
+    "Anime":"Anime",
+    "hours":"24 min per episode ",
+    "month":"2022",
+    "ua":"U/A 13+",
+    "type":"comedy , Action ",
+    "premium": false
+
+},
+{
+    "id":23,
+    "video":"https://pixeldrain.com/api/file/V4TskYfg",
+    "img":"/img2/tokyo.jpg" ,
+    "title":"Tokyo Revengers",
+    "h2":"Trending",
+    "para":"Tokyo Revengers follows Takemichi, a young man who travels back in time to save his ex-girlfriend and change the future. He gets involved with the Tokyo Manji Gang to rewrite fate.",
+    "Anime":"Anime",
+    "hours":"25 min per episode ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Friendship, loyalty",
+    "premium": false
+
+},
+{
+    "id":24,
+    "video":"https://pixeldrain.com/api/file/TrveRLD6",
+    "img":"/img2/tsuri.jpg" ,
+    "title":"Tsuritama",
+    "h2":"Trending",
+    "para":"Tsuritama is a colorful and quirky anime about Yuki, a shy boy who moves to a seaside town and learns to fish with some unusual new friends—one of whom claims to be an alien. Together, they form a bond that unexpectedly leads to saving the world.",
+    "Anime":"Anime",
+    "hours":"21 min per episode ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"sci-fi , Adventure",
+    "premium": false
+},
+{
+    "id":25,
+    "video":"https://pixeldrain.com/api/file/XNF4ekUL",
+    "img":"/img2/your.jpg" ,
+    "title":"Your Name",
+    "h2":"Trending",
+    "para":"Your Name is a romantic fantasy anime film about two teenagers, Taki and Mitsuha, who mysteriously begin swapping bodies. As they live each other’s lives, a deep connection forms between them.",
+    "Anime":"Anime",
+    "hours":"1.5 hours ",
+    "month":"2020",
+    "ua":"U/A 13+",
+    "type":"Love , loyalty",
+    "premium": true
+}
+]
