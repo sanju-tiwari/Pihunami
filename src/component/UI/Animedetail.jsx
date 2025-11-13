@@ -63,7 +63,7 @@ function Animedetail({addtowishlist}) {
           >
             {data.premium ? (
               <>
-                {isSubscribed ? "Watch now" : "Subscribe"} <img src={star} alt="error" className="w-[2rem] h-[2rem]" />
+                {isSubscribed ? "Watch now" : "Subscribe"} <img src="/img2/star.png" alt="error" className="w-[2rem] h-[2rem]" />
               </>
             ) : (
               "Watch now"
