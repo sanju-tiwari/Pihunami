@@ -3,7 +3,7 @@ node_modules/
 dist/
 
 # Heavy image/video folders in public
-public/img\ video/
+public/img video/
 public/img2/
 public/imges/
 
