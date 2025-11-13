@@ -1,6 +1,5 @@
-import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import wishlistimg from "../../assets/img/wishlistimg.png"
+import wishlistimg from "/src/assets/img/wishlistimg.png";
 
 function Wishlist({ add, setadd }) {
   const navigate = useNavigate();
@@ -23,7 +22,7 @@ function Wishlist({ add, setadd }) {
       {add.length === 0 ? (
         <div className='flex items-center justify-center flex-col' >
         <h1 className='text-[1.5rem] text-white text-center font-bold'>No Items in Wishlist</h1>
-        <img className='' src={wishlistimg} alt="error in showing the image" />
+        <img src={wishlistimg} alt="error in showing the image" />
         </div>
         
       ) : (
